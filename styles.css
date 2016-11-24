@@ -1,0 +1,10 @@
+body {
+	background-image: url(images/background.jpg);
+	color: #fff;
+	text-shadow: 2px 2px 3px black;
+}
+
+.myface {
+	border-radius: 50%;
+	width: 200px;
+}
