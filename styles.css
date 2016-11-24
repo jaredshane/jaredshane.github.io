@@ -8,3 +8,12 @@ body {
 	border-radius: 50%;
 	width: 200px;
 }
+
+.social {
+	color: inherit;
+	text-decoration: none;
+}
+
+.social:hover {
+	color: grey;
+}
