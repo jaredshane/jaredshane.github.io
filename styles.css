@@ -1,5 +1,5 @@
 body {
-	background-image: url(images/background.jpg);
+	background-image: url(images/gray-haze-background.jpg);
 	color: #fff;
 	text-shadow: 2px 2px 3px black;
 }
@@ -9,11 +9,43 @@ body {
 	width: 200px;
 }
 
+li {
+	list-style: none;
+}
+
 .social {
-	color: inherit;
 	text-decoration: none;
+	color: white;
+	display: block;
+	background-repeat: no-repeat;
+	min-height: 30px;
+	background-size: 30px 30px;
+	padding: 5px 0 20px 40px;
+	margin-left: -10%;
+
 }
 
 .social:hover {
-	color: grey;
+	color: black;
+}
+
+.comingSoon {
+	margin-left: 36%;
+}
+
+.twitter {
+	background-image: url(images/twitter1.png);
+
+}
+
+.facebook {
+	background-image: url(images/facebook-icon.png);
+}
+
+.github {
+	background-image: url(images/github-icon.png);
+}
+
+.mail {
+	background-image: url(images/email.png);
 }
