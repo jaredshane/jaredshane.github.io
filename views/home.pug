@@ -1,0 +1,18 @@
+block content
+  .home
+    .row
+      .aboutme(class='col s5 offset-s2') 
+        p I am Jared Fuller - software developer and life long learner of history. 
+
+        p I have always had a passion for technology and problem solving. 
+
+        p Currently an apprentice software developer at Nashville Software School. I enjoy working with AngularJS on the front-end and NodeJS on the back-end. Between tinkering with React or getting more familiar with vanilla Javascript, I am continually learning. 
+      img(src='/images/me.jpg' class='col s3 me')
+    
+    .container    
+      .row
+        .techList
+          ul
+            li
+              each tech in technologies
+                img(src=tech.image alt=tech.name class='techPic col s2')
