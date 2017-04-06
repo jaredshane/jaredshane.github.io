@@ -1,0 +1,32 @@
+#footer-container {
+  border-top: 2px solid black;
+  width: 100%;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 1em;
+  padding-left: 13em;
+}
+
+#footer-container h4 {
+  padding-top: 30px;
+  margin: .5em;
+  display: inline;
+  width: 1em;
+}
+
+#footer-container img {
+  margin: .5em;
+  margin-bottom: -.7em;
+  display: inline;
+  width: 3em;
+  height: 3em;
+}
+
+#footer-container a p {
+  display: inline;
+}
+
+#footer-container p {
+  color: black;
+  margin-right: 4em;
+}
