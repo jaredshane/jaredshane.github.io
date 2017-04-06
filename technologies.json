@@ -1,0 +1,73 @@
+{
+  "technologies": [
+    {
+      "name": "HTML",
+      "image": "/images/technologies/html5.png"
+    },
+    {
+      "name": "CSS",
+      "image": "images/technologies/css3.png"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "images/technologies/bootstrap.png"
+    },
+    {
+      "name": "Materialize",
+      "image": "images/technologies/materialize.png"
+    },
+    {
+      "name": "JavaScript",
+      "image": "images/technologies/javascript.png"
+    },
+    {
+      "name": "jQuery",
+      "image": "images/technologies/jquery.png"
+    },
+    {
+      "name": "AngularJS",
+      "image": "images/technologies/angularjs.png"
+    },
+    {
+      "name": "Bower",
+      "image": "images/technologies/bower.png"
+    },
+    {
+      "name": "NPM",
+      "image": "images/technologies/npm.png"
+    },
+    {
+      "name": "Git",
+      "image": "images/technologies/git.png"
+    },
+    {
+      "name": "NodeJS",
+      "image": "images/technologies/nodejs.png"
+    },
+    {
+      "name": "Express",
+      "image": "images/technologies/express.svg"
+    },
+    {
+      "name": "Mocha",
+      "image": "images/technologies/mocha.svg"
+    },
+    {
+      "name": "Chai",
+      "image": "images/technologies/chai.png"
+    },
+    {
+      "name": "MongoDB",
+      "image": "images/technologies/mongodb.svg"
+    },
+    {
+      "name": "Pug",
+      "image": "images/technologies/pug.png"
+    },
+    {
+      "name": "PostgreSQL",
+      "image": "images/technologies/postgresql.png"
+    }
+
+  ]
+}
