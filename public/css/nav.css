@@ -1,0 +1,30 @@
+nav {
+  background-color: #440806;
+  opacity: 0.8;
+  padding-right: 4em;
+}
+
+.name {
+  margin-left: 4em;
+  font-size: 2em;
+}
+
+.projects {
+  margin-right: 2em;
+}
+
+.about {
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+.selected {
+  border-bottom: solid 1px white;
+}
+
+span {
+  font-size: 1.5em;
+  color: white;
+  opacity: 1.0;
+  text-shadow: 5px black;
+}
