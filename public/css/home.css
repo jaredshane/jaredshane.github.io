@@ -1,0 +1,37 @@
+html {
+  background-color: #010001;
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 {
+  color: white
+}
+
+.content {
+  background-color: white;
+  opacity: 0.8;
+}
+
+.me {
+  border-radius: 5%;
+}
+
+.home {
+  padding-top: 3em;
+}
+
+
+.techList {
+  border-top: 1px solid black;
+  margin-top: 3em;
+}
+
+.techPic {
+  margin-bottom: 2em;
+  margin-right: 2em;
+  height: 9em;
+  max-width: 15em;
+
+}
