@@ -1,0 +1,14 @@
+doctype html
+html
+  head
+    title ||Jared Fuller||
+    include stylesheets.pug
+  body
+    .main-page
+      include navbar.pug
+      .content
+        block content
+          include home.pug
+
+        include footer.pug
+    include scripts.pug
