@@ -4,5 +4,9 @@ block content
   .container
     .row.projects 
       each project in projects
-        .container.project-conatainer
-          h4(class='col s3') #{project.title} 
+        .project_container
+          a(href=project.githubRepo)
+            h4 #{project.title} 
+          p #{project.summary}
+          //- p #{project.description}
+        
