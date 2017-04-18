@@ -25,7 +25,7 @@ app.get('/about', (req, res, next) => {
 })
 
 app.get('/projects', (req, res, next) => {
-  res.render('projects', { projects }, {page: 'Projects'})
+  res.render('projects', {page: 'Projects', projects})
 })
 
 
