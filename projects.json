@@ -11,7 +11,7 @@
       "projectPics": [ "images/clubhouse/clubhouse-home.png", "images/clubhouse/clubhouse-team-select.png", "images/clubhouse/clubhouse-news.png", "images/clubhouse/clubhouse-news-2.png" ],
       "projPics": [
         { "img": "images/technologies/angularjs.png", "title": "Angular JS" },
-        { "img": "images/technologies/css3.ong", "title": "CSS3" },
+        { "img": "images/technologies/css3.png", "title": "CSS3" },
         { "img": "images/technologies/html5.png", "title": "HTML5" },
         { "img": "images/technologies/materialize.png", "title": "Materialize"},
         { "img": "images/technologies/lodash.png", "title": "Lodash"}
