@@ -2,11 +2,23 @@ extends index.pug
 
 block content
   .container
-    .row.projects 
+    .row.projectList 
       each project in projects
-        .project_container
-          a(href=project.githubRepo)
-            h4 #{project.title} 
-          p #{project.summary}
-          //- p #{project.description}
+          .project_text(class='col s5')
+            a(href=project.githubRepo)
+              h4 #{project.title} 
+            p #{project.summary}
+            p #{project.description}
+          .images_container(class='col s7')
+            each picture in project.projectPics
+              img.materialboxed.projPic(class='col s6' src=picture)
+          .tech_container
+            p.tech_title Technologies Used:
+              .tech_list_container
+                each picture in project.projPics
+                  .tech_card_container
+                    p #{picture.title}
+                    img(class='tech_img' src=picture.img)
+              
+          
         
