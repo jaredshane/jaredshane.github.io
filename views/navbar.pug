@@ -5,10 +5,10 @@
       ul.right(class='hide-on-med-and-down')
         li
           a(href='/') 
-            span(class={ selected: !page}) Home
-        li.about
-          a(href='/about')
-            span(class={ selected: page === 'About'}) About
+            span.nav_bar(class={ selected: !page}) Home
+        li.fun
+          a(href='/fun')
+            span.nav_bar(class={ selected: page === 'Fun'}) Fun
         li.projects  
           a(href='/projects')
-            span(class={ selected: page === 'Projects'}) Projects
+            span.nav_bar(class={ selected: page === 'Projects'}) Projects
