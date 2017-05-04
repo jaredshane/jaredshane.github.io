@@ -20,8 +20,8 @@ app.get('/', (req, res, next) => {
   res.render('index', { technologies })
 })
 
-app.get('/about', (req, res, next) => {
-  res.render('about', {page: 'About'})
+app.get('/fun', (req, res, next) => {
+  res.render('fun', {page: 'Fun', fun})
 })
 
 app.get('/projects', (req, res, next) => {
