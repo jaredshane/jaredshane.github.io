@@ -1,0 +1,22 @@
+{
+  "fun": [
+    {
+      "watching": {
+        "title": "The Man in the High Castle",
+        "url": "https://www.amazon.com/Man-High-Castle-Season/dp/B00RSGFRY8"
+      },
+      "reading": {
+        "title": "The Phenomenon: Pressure, the Yips, and the Pitch that Changed My Life",
+        "url": "https://www.amazon.com/Phenomenon-Pressure-Yips-Pitch-Changed/dp/1610396863/ref=sr_1_1?ie=UTF8&qid=1493869011&sr=8-1&keywords=rick+ankiel"
+      },
+      "listening": {
+        "title": "Sufjan Stevens",
+        "url": "https://itunes.apple.com/us/album/carrie-lowell-live/id1227779973"
+      },
+      "playing": {
+        "title": "Mario Kart 64",
+        "url": "http://www.nintendo.com/games/detail/ypYFdZloLpIo5g7mvh9xXj0gLcT7KGSy"
+      }
+    }
+  ]
+}
