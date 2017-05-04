@@ -9,6 +9,10 @@
       "image": "images/technologies/css3.png"
     },
     {
+      "name": "Sass",
+      "image": "images/technologies/sass.png"
+    },
+    {
       "name": "Bootstrap",
       "image": "images/technologies/bootstrap.png"
     },
@@ -41,24 +45,32 @@
       "image": "images/technologies/git.png"
     },
     {
+      "name": "Github",
+      "image": "images/technologies/github.png"
+    },
+    {
       "name": "NodeJS",
       "image": "images/technologies/nodejs.png"
     },
     {
       "name": "Express",
-      "image": "images/technologies/express.svg"
+      "image": "images/technologies/express.png"
     },
     {
       "name": "Mocha",
-      "image": "images/technologies/mocha.svg"
+      "image": "images/technologies/mocha.png"
     },
     {
       "name": "Chai",
       "image": "images/technologies/chai.png"
     },
     {
+      "name": "Passport",
+      "image": "images/technologies/passport.png"
+    },
+    {
       "name": "MongoDB",
-      "image": "images/technologies/mongodb.svg"
+      "image": "images/technologies/mongodb.png"
     },
     {
       "name": "Pug",
