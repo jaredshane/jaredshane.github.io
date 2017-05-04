@@ -34,7 +34,6 @@ app.get('/projects', (req, res, next) => {
 
 
 const port = process.env.port || 8080
-app.set('port', port)
 app.listen(port, () => {
   console.log(`currently listening on port: ${port}`)
 })
