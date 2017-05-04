@@ -2,10 +2,10 @@
 
 const express = require('express')
 const app = express();
-
 const { technologies } = require('./technologies.json')
 const { projects } = require('./projects.json')
-console.log(projects)
+const { fun } = require('./fun.json')
+
 
 //set pug config
 app.set('view engine', 'pug')
