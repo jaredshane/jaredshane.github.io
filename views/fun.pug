@@ -1,0 +1,19 @@
+extends index.pug
+
+block content
+  .home
+    .row
+    each thing in fun
+      p.currently I am currently: 
+        p Watching:
+          a(href=thing.watching.url)
+            span.fun_items #{thing.watching.title}
+        p Reading: 
+          a(href=thing.reading.url)
+            span.fun_items #{thing.reading.title}
+        p Listening To: 
+          a(href=thing.listening.url)
+            span.fun_items #{thing.listening.title}
+        p Playing: 
+          a(href=thing.playing.url)
+            span.fun_items #{thing.playing.title}
