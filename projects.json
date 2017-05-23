@@ -16,6 +16,50 @@
         { "img": "images/technologies/materialize.png", "title": "Materialize"},
         { "img": "images/technologies/lodash.png", "title": "Lodash"}
       ]
+    },
+    {
+      "title": "NashHistory",
+      "date": "May 2017",
+      "summary": "A simple mobile application that lets a user see all of the historical markers in the Nashville area and plan a trip to visit them",
+      "description": "A simple mobile application that lets a user see all of the historical markers in the Nashville area and plan a trip to visit them. It will show a user pertinent information about the marker and let them navigate to it utilizing Apple Maps. As well a user can keep a journal of their visits.",
+      "githubRepo": "https://github.com/jaredshane/NashHistory",
+      "hostedUrl": null,
+      "projectPics": [
+        "images/nashhistory/mapview.png",
+        "images/nashhistory/tripview.png",
+        "images/nashhistory/entryview.png",
+        "images/nashhistory/journal.png"
+      ],
+      "projPics": [
+        {
+          "img": "images/technologies/react.png",
+          "title": "React"
+        },
+        {
+          "img": "images/technologies/amazons3.png",
+          "title": "Amazon S3"
+        },
+        {
+          "img": "images/technologies/nodejs.png",
+          "title": "NodeJS"
+        },
+        {
+          "img": "images/technologies/express.png",
+          "title": "Express"
+        },
+        {
+          "img": "images/technologies/postgresql.png",
+          "title": "PostgreSQL"
+        },
+        {
+          "img": "images/technologies/bookshelf.png",
+          "title": "Bookshelf"
+        },
+        {
+          "img": "images/technologies/knexjs.png",
+          "title": "Knex.js"
+        }
+      ]
     }
   ]
 }
