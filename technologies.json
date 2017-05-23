@@ -69,12 +69,8 @@
       "image": "images/technologies/chai.png"
     },
     {
-      "name": "Passport",
-      "image": "images/technologies/passport.png"
-    },
-    {
-      "name": "MongoDB",
-      "image": "images/technologies/mongodb.png"
+      "name": "Amazon S3",
+      "image": "images/technologies/amazons3.png"
     },
     {
       "name": "Pug",
