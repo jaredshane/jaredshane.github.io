@@ -7,7 +7,7 @@
       "summary": "Get your favorite baseball team's latest and most up to date news.",
       "description": "The Clubhouse is a news web application. It is designed for users to be able to choose their favorite Major League Baseball teams and get the latest news for them. It will get the articles from the team's website, MLBtraderumors.com and the team's subreddit.",
       "githubRepo": "https://github.com/jaredshane/TheClubhouse",
-      "hostedUrl": null,
+      "hostedUrl": "https://jaredshane.github.io/TheClubhouse/#/",
       "projectPics": [ "images/clubhouse/clubhouse-home.png", "images/clubhouse/clubhouse-team-select.png", "images/clubhouse/clubhouse-news.png", "images/clubhouse/clubhouse-news-2.png" ],
       "projPics": [
         { "img": "images/technologies/angularjs.png", "title": "Angular JS" },
