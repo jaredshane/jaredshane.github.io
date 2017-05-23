@@ -29,6 +29,10 @@
       "image": "images/technologies/jquery.png"
     },
     {
+      "name": "React",
+      "image": "images/technologies/react.png"
+    },
+    {
       "name": "AngularJS",
       "image": "images/technologies/angularjs.png"
     },
