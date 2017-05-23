@@ -7,7 +7,7 @@
       "summary": "Get your favorite baseball team's latest and most up to date news.",
       "description": "The Clubhouse is a news web application. It is designed for users to be able to choose their favorite Major League Baseball teams and get the latest news for them. It will get the articles from the team's website, MLBtraderumors.com and the team's subreddit.",
       "githubRepo": "https://github.com/jaredshane/TheClubhouse",
-      "hostedUrl": null,
+      "hostedUrl": "https://jaredshane.github.io/TheClubhouse/#/",
       "projectPics": [ "images/clubhouse/clubhouse-home.png", "images/clubhouse/clubhouse-team-select.png", "images/clubhouse/clubhouse-news.png", "images/clubhouse/clubhouse-news-2.png" ],
       "projPics": [
         { "img": "images/technologies/angularjs.png", "title": "Angular JS" },
@@ -15,6 +15,50 @@
         { "img": "images/technologies/html5.png", "title": "HTML5" },
         { "img": "images/technologies/materialize.png", "title": "Materialize"},
         { "img": "images/technologies/lodash.png", "title": "Lodash"}
+      ]
+    },
+    {
+      "title": "NashHistory",
+      "date": "May 2017",
+      "summary": "A simple mobile application that lets a user see all of the historical markers in the Nashville area and plan a trip to visit them",
+      "description": "A simple mobile application that lets a user see all of the historical markers in the Nashville area and plan a trip to visit them. It will show a user pertinent information about the marker and let them navigate to it utilizing Apple Maps. As well a user can keep a journal of their visits.",
+      "githubRepo": "https://github.com/jaredshane/NashHistory",
+      "hostedUrl": null,
+      "projectPics": [
+        "images/nashhistory/mapview.png",
+        "images/nashhistory/tripview.png",
+        "images/nashhistory/entryview.png",
+        "images/nashhistory/journal.png"
+      ],
+      "projPics": [
+        {
+          "img": "images/technologies/react.png",
+          "title": "React"
+        },
+        {
+          "img": "images/technologies/amazons3.png",
+          "title": "Amazon S3"
+        },
+        {
+          "img": "images/technologies/nodejs.png",
+          "title": "NodeJS"
+        },
+        {
+          "img": "images/technologies/express.png",
+          "title": "Express"
+        },
+        {
+          "img": "images/technologies/postgresql.png",
+          "title": "PostgreSQL"
+        },
+        {
+          "img": "images/technologies/bookshelf.png",
+          "title": "Bookshelf"
+        },
+        {
+          "img": "images/technologies/knexjs.png",
+          "title": "Knex.js"
+        }
       ]
     }
   ]

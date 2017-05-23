@@ -29,6 +29,10 @@
       "image": "images/technologies/jquery.png"
     },
     {
+      "name": "React",
+      "image": "images/technologies/react.png"
+    },
+    {
       "name": "AngularJS",
       "image": "images/technologies/angularjs.png"
     },
@@ -65,12 +69,8 @@
       "image": "images/technologies/chai.png"
     },
     {
-      "name": "Passport",
-      "image": "images/technologies/passport.png"
-    },
-    {
-      "name": "MongoDB",
-      "image": "images/technologies/mongodb.png"
+      "name": "Amazon S3",
+      "image": "images/technologies/amazons3.png"
     },
     {
       "name": "Pug",
