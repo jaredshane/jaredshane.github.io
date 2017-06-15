@@ -8,7 +8,7 @@ nav {
   margin-left: 4em;
   font-size: 2em;
 }
-
+/*
 .projects {
   margin-right: 2em;
 }
@@ -16,7 +16,7 @@ nav {
 .fun {
   margin-left: 2em;
   margin-right: 2em;
-}
+}*/
 
 .selected {
   border-bottom: solid 1px white;
@@ -27,4 +27,16 @@ nav {
   color: white;
   opacity: 1.0;
   text-shadow: 5px black;
+}
+
+@media only screen and (min-width: 768px) {
+    /* For mobile phones: */
+    .projects {
+      margin-right: 2em;
+    }
+
+    .fun {
+      margin-left: 2em;
+      margin-right: 2em;
+    }
 }
